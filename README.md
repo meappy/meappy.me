@@ -1,4 +1,10 @@
-<p align="center"><img src="docs/banner.svg" alt="meappy.me" width="800"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/banner-light.png">
+    <img alt="meappy.me" src="docs/banner-dark.png" width="800">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://meappy.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmeappy.me&label=GitHub%20Pages" alt="GitHub Pages"></a>
