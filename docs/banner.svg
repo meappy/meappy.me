@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94A3B8" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#94A3B8" stop-opacity="0.4"/>
+      <stop offset="80%" stop-color="#94A3B8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#94A3B8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Globe icon -->
+  <g transform="translate(310, 75)">
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+    <ellipse cx="0" cy="0" rx="10" ry="22" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+    <line x1="-22" y1="0" x2="22" y2="0" stroke="#94A3B8" stroke-width="1.5"/>
+    <path d="M-20,-9 Q0,-12 20,-9" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+    <path d="M-20,9 Q0,12 20,9" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="400" y="85" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="600" fill="white" letter-spacing="-0.5">meappy.me</text>
+
+  <!-- Separator line -->
+  <rect x="200" y="105" width="400" height="1" fill="url(#line)"/>
+
+  <!-- Subtitle -->
+  <text x="400" y="135" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="400" fill="#94A3B8" letter-spacing="3">Personal landing page</text>
+</svg>

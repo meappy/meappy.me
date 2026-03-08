@@ -1,3 +1,11 @@
+<p align="center"><img src="docs/banner.svg" alt="meappy.me" width="800"></p>
+
+<p align="center">
+  <a href="https://meappy.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmeappy.me&label=GitHub%20Pages" alt="GitHub Pages"></a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+</p>
+
 # meappy.me
 
 Personal landing page with social media links.
